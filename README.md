@@ -12,3 +12,13 @@ You can switch the next or previous content by:
 - jQuery functionality;
 - Styled scss preprocessor;
 - BEM methodology was used for layout;
+
+## Screenshots
+<table width="100" align="center">
+    <td align="center">
+        <img src="./src/assets/img/screenshot_0.png" width="379" height="253" alt="css3"/>
+    </td>
+    <td align="center">
+        <img src="./src/assets/img/screenshot_1.png" width="379" height="253" alt="sass">
+    </td>
+</table>
