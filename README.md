@@ -1,5 +1,6 @@
 # Content viewer
 With this plugin, you can view photos and videos from the content block. 
+<br/>
 You can switch the next or previous content by:
 1) pressing the buttons located on the sides of the browser;
 2) pressing the right/left arrow on the keyboard;
