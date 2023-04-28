@@ -11,4 +11,5 @@ You can switch the next or previous content by:
 - jQuery functionality;
 - Styled scss preprocessor;
 - BEM methodology was used for layout;
+<br/>
 Online example: https://viktorcoi.github.io/content-viewer/
